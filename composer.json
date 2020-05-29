@@ -1,0 +1,11 @@
+{
+  "require": {
+    "filp/whoops": "dev-master",
+    "xxtime/component": "dev-master",
+    "xxtime/publisher": "dev-master",
+    "xxtime/oauth-client": "dev-master",
+    "symfony/yaml": "~3",
+    "firebase/php-jwt": "~4",
+    "overtrue/socialite": "~1"
+  }
+}
